@@ -1,11 +1,13 @@
-# bot-structure
-My current Discord Bot Structure
+# Bot Structure Slash
+Previous structure overhaul in Discord.js V14, with **slash commands**
 
 ## Requirements:
 
 ### Packages
 **[discord.js](https://www.npmjs.com/package/discord.js)**
+
 **[discordjs/rest](https://www.npmjs.com/package/@discordjs/rest)**
+
 
 [ms](https://www.npmjs.com/package/ms)
 
